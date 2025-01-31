@@ -4,3 +4,8 @@ But if needed I know how to apply authentication, If time would have been there 
 
 It's been long that I have not made frontend in Django, I used to do it while learning in my initial days. But if time would have been there then I could have created a seperate frontend application for the same.
 As the frontend is not made. So I am attaching the screenshots of APIs.
+
+<img width="1440" alt="Screenshot 2025-01-31 at 7 51 42 PM" src="https://github.com/user-attachments/assets/1e35b4ec-5bdc-491b-8ccb-68e40aef260d" />
+
+<img width="1440" alt="Screenshot 2025-01-31 at 7 51 47 PM" src="https://github.com/user-attachments/assets/0c4e9637-b4ec-4953-80a0-3e23f96f4eae" />
+
